@@ -44,6 +44,15 @@ export const estilo = StyleSheet.create({
     left: 70,
     right: 10,
   },
+  scrollView: {
+    flex: 1,
+    backgroundColor: '#f0f0f0',
+  },
 
+  imagem1: {
+    flex: 1,
+    width: 25,
+    height: 25
+   },
 })
     
